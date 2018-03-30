@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.Base" parent="Theme.AppCompat.DayNight">
+    </style>
+</resources>
